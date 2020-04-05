@@ -1,8 +1,9 @@
 # build69-modded
+
 My work with samp on android
 
 - Added function On/Off  Clocks in game
-- Added function editing text on the clocks (rendering on inteface maximum 10 symbols)
+- Added function editing text on the clocks (rendering on interface maximum 10 symbols)
 
 Original source code by 4x11
 
